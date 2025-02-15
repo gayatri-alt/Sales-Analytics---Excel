@@ -1,10 +1,9 @@
 # Sales & Finance Analytics Projects
 - **Project objective:** 
 
-    **1.** Create a _[customer performance report](https://github.com/gayatri-alt/Sales-Analytics---Excel/blob/main/Customer%20Performance%20Report.pdf))_ 
+    **1.** Create a _[customer performance report](https://github.com/gayatri-alt/Sales-Analytics---Excel/blob/main/Customer%20Performance%20Report.pdf)_ 
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/gayatri-alt/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_
-
+    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/gayatri-alt/Sales-Analytics---Excel/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)
 - **Purpose of sales analytics:** The goal of this project is to empower businesses to monitor and evaluate their sales activities and performance. By utilizing comprehensive data analysis, organizations can derive actionable insights that will help them improve sales strategies and boost revenue.
 
 - **Importance of analyzing sales data:** Identifying Sales Patterns: Understanding the trends and patterns in sales data allows businesses to forecast future performance and make informed decisions.

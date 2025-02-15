@@ -19,7 +19,7 @@ Identify Expansion Opportunities: Businesses can uncover high-potential areas fo
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/gayatri-alt/Sales-Analytics---Excel/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf) &(
+    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/gayatri-alt/Sales-Analytics---Excel/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf) &(https://github.com/gayatri-alt/Sales-Analytics---Excel/blob/main/P%26L%20Statement%20by%20Months.pdf)
 
    **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/gayatri-alt/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
 

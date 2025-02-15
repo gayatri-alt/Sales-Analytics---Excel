@@ -1,9 +1,9 @@
 # Sales & Finance Analytics Projects
 - **Project objective:** 
 
-    **1.** Create a _[customer performance report](https://github.com/gayatri05-crypto/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_ 
+    **1.** Create a _[customer performance report](https://github.com/gayatri-alt/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_ 
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/gayatri05-crypto/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_
+    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/gayatri-alt/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_
 
 - **Purpose of sales analytics:** The goal of this project is to empower businesses to monitor and evaluate their sales activities and performance. By utilizing comprehensive data analysis, organizations can derive actionable insights that will help them improve sales strategies and boost revenue.
 
@@ -20,9 +20,9 @@ Identify Expansion Opportunities: Businesses can uncover high-potential areas fo
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/gayatri05-crypto/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/gayatri05-crypto/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Months.pdf)_ 
+    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/gayatri05-crypto/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/gayatri-alt/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Months.pdf)_ 
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/gayatri05-crypto/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
+   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/gayatri-alt/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
 
 - **Purpose of sales analytics:** The finance report's primary goal is to provide a comprehensive evaluation of financial performance to support decision-making and ensure transparency in financial communications with key stakeholders.
 

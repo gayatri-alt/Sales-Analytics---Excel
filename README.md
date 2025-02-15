@@ -21,7 +21,7 @@ Identify Expansion Opportunities: Businesses can uncover high-potential areas fo
 
     **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/gayatri-alt/Sales-Analytics---Excel/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf) &(https://github.com/gayatri-alt/Sales-Analytics---Excel/blob/main/P%26L%20Statement%20by%20Months.pdf)
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/gayatri-alt/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
+   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/gayatri-alt/Sales-Analytics---Excel/blob/main/P%26L%20Statement%20by%20Markets.pdf)
 
 - **Purpose of sales analytics:** The finance report's primary goal is to provide a comprehensive evaluation of financial performance to support decision-making and ensure transparency in financial communications with key stakeholders.
 

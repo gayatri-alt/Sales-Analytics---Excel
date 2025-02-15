@@ -1,7 +1,7 @@
 # Sales & Finance Analytics Projects
 Sales Report:
 Project Objective:
-Create a Customer Performance Report
+Create a Customer Performance Report:https://github.com/gayatri-alt/Sales-Analytics---Excel/blob/main/Customer%20Performance%20Report.pdf
 Conduct a comprehensive comparison between Market Performance and Sales Targets
 Purpose of Sales Analytics:
 The goal of this project is to empower businesses to monitor and evaluate their sales activities and performance. By utilizing comprehensive data analysis, organizations can derive actionable insights that will help them improve sales strategies and boost revenue.
